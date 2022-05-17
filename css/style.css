@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Roboto&display=swap');
+
+
+.logo {
+    width: 100px;
+    height: 80px;
+   
+    
+    
+
+}
+
+.size1 {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #000;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.hero-section {
+    display: flex;
+    padding: 30px 50px;
+}
+
+.hero-section .para {
+    padding: 0 30px;
+}
+
+.hero-section .row a {
+    text-decoration: none;
+    padding: 10px 10px;
+    background: rgb(10, 162, 212);
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 471px;
+}
+
+.hero-section .row a:hover {
+    background: red;
+}
+
+.ttm-row.services2-section {
+    padding: 90px 0 75px;
+}
+
+.bg-img4 {
+    content: "";
+    background-image: url(../img/bg-img4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 1;
+}
